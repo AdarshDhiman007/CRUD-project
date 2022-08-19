@@ -24,8 +24,13 @@ Visual Studio Code, also commonly referred to as VS Code is a source-code editor
 CRUD operations in simple SQL and NoSQL are confusing and can be very tiresome for a person to do all those operation in a database. In CRUD project we have connected our database which is present in our computer with our web pages to provide a better interface to us or our user so they can use it easily without learning any NoSQL or SQL commands to create, reade, update and delete the data from the database.
 
 ## Result
+![Screenshot (125)](https://user-images.githubusercontent.com/106834986/185573155-8e72de2e-ef26-477e-a374-1eb8f7a07d13.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/106834986/185574046-a7c14d01-6c92-415d-90e3-97c14a7aae9b.png)
+![Screenshot (127)](https://user-images.githubusercontent.com/106834986/185574103-23a3659d-0080-4f04-a921-dbbc134ef985.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/106834986/185574130-ccd37e4e-e57a-495c-80a7-b9e99484c264.png)
 
-
+## Conclusion & Future Work
+ CRUD project we have connected our database which is present in our computer with our web pages to provide a better interface to us or our user so they can use it easily without learning any NoSQL or SQL commands to create, reade, update and delete the data from the database. We can work on this project to make it more interactive and more user friendly.
 
 ## References
 
