@@ -3,7 +3,7 @@
 ### Abstract:
 In this CRUD project we have created different web pages by the help of which we can create, read, delete and update the data of people from the database which is present in our computer.
 
-#### What Is CRUD?
+#### What is CRUD?
 CRUD stands for create, reade, update and delete various data present from the database which is provided to us. In CRUD project we have connected our database which is present in our computer with our web pages to provide a better interface to us or our user so they can use it easily without learning any NoSQL or SQL commands to create, reade, update and delete the data from the database.
 
 ## Technologies Used
